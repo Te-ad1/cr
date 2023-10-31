@@ -775,7 +775,7 @@ ul{
         user-select: none;
         -webkit-user-select: none;
         touch-action: manipulation;
-        margin-left: 4%;
+        
         white-space: nowrap;
     }
 
@@ -866,7 +866,7 @@ ul{
     user-select: none;
     -webkit-user-select: none;
     touch-action: manipulation;
-    margin-left: 4%;
+    margin-left: 15%;
     white-space: nowrap;
 }
 
